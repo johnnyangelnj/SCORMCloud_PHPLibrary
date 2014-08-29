@@ -1,0 +1,14 @@
+{
+    "name": "scormcloud",
+    "description": "Scorm Cloud php Library",
+    "authors": [
+        {
+            "name": "Rustici Software"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "ScormCloud": "/"
+        }
+    }
+}
